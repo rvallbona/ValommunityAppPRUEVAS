@@ -4,6 +4,19 @@
     tools:context="com.example.valommunity.MainActivity">
     <item
         android:id="@+id/action_settings"
+        android:icon="@drawable/descarga"
+        android:orderInCategory="100"
+        android:title="@string/action_settings"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/firstButton"
+        android:icon="@drawable/descarga"
+        android:orderInCategory="100"
+        android:title="@string/action_settings"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/secondButton"
+        android:icon="@drawable/descarga"
         android:orderInCategory="100"
         android:title="@string/action_settings"
         app:showAsAction="never" />
