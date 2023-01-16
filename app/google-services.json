@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "523116801543",
+    "firebase_url": "https://realtimedatabase-27494-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "realtimedatabase-27494",
+    "storage_bucket": "realtimedatabase-27494.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:523116801543:android:6992ec37a14ee1c19704a2",
+        "android_client_info": {
+          "package_name": "com.example.valommunity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "523116801543-i4b1t3uks479evaal090edgo2qbumoe1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7I0HDO_uHdklMz7b6TAqFsl6DZKrE9I8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "523116801543-i4b1t3uks479evaal090edgo2qbumoe1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

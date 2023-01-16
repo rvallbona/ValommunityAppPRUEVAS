@@ -10,7 +10,7 @@ import com.example.valommunity.databinding.ActivityMainBinding
 
 class LoginActivity : AppCompatActivity() {
     
-    val CORRECT_USERNAME = "pau@enti.cat"
+    val CORRECT_USERNAME = "ramon@enti.cat"
     val CORRECT_PASSWORD = "123456"
 
     lateinit var binding: ActivityLoginBinding
